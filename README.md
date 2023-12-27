@@ -16,7 +16,9 @@ First, I tried using Deep Q learning.
 The highest score achieved was 63. The program was run multiple times. I stopped it at around 400 games each time. The AI was not able to win the game as it's major problem is that it keeps looping on itself and dying. 
 
 **Looping on itself**
+
 ![Loop on itself](https://github.com/FrankFyre/SnakeAI/assets/89239683/70428588-c2ed-457c-a705-c087ad344790)
+
 ![snkae1](https://github.com/FrankFyre/SnakeAI/assets/89239683/09a3596e-b435-4b4d-85e5-52ca23752c1c)
 
 
@@ -34,10 +36,10 @@ Similar to his method, I used Prim's algorithm to  generate random a maze and th
 
 
 200x200 screen size  - 50 Block Size
+
 https://github.com/FrankFyre/SnakeAI/assets/89239683/94533e13-7bee-46da-a416-f4e7a81f3b21
 
 600x600 screen size  - 30 Block Size
-
 
 https://github.com/FrankFyre/SnakeAI/assets/89239683/0af948cb-2951-4ae8-a26e-3b48bdf1ab70
 
