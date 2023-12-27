@@ -41,7 +41,7 @@ https://github.com/FrankFyre/SnakeAI/assets/89239683/94533e13-7bee-46da-a416-f4e
 
 https://github.com/FrankFyre/SnakeAI/assets/89239683/0af948cb-2951-4ae8-a26e-3b48bdf1ab70
 
-##Ongoing works
+## Ongoing works
 
 Currently, there I cannot figure out how to skip parts of the cycle to speed up the winning of the game. The biggest error that I am trying to fix is that the snake goes off the map and crashes when performing a skip 
 
